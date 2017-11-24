@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RimFridge_Refrigerator.label>Lodówka</RimFridge_Refrigerator.label>
+	<RimFridge_Refrigerator.description>Umożliwia przechowywanie jedzenia bez ryzyka zepsucia.</RimFridge_Refrigerator.description>
+
+	<RimFridge_SingleRefrigerator.label>Mała lodówka</RimFridge_SingleRefrigerator.label>
+	<RimFridge_SingleRefrigerator.description>Umożliwia przechowywanie jedzenia bez ryzyka zepsucia.</RimFridge_SingleRefrigerator.description>
+
+</LanguageData>
